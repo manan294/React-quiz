@@ -1,0 +1,12 @@
+li {
+  cursor: pointer;
+  list-style: none;
+}
+
+li:hover {
+  background: lightgray;
+  color: black;
+}
+.Selected {
+  background: rgb(160, 160, 160);
+}
